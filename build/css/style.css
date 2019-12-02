@@ -1284,7 +1284,7 @@ body {
     min-height: 55px;
     border: 6px solid transparent;
   }
-  .tabs__item svg {
+  .tabs__item img {
     width: 82%;
     height: auto;
   }
@@ -2327,7 +2327,7 @@ body {
   left: -50px;
 }
 
-.main-slider__btn-prev svg {
+.main-slider__btn-prev img {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
