@@ -1,0 +1,21 @@
+<svg id="icon_3" data-name="icon/3" xmlns="http://www.w3.org/2000/svg" width="24.88" height="32" viewBox="0 0 24.88 32">
+    <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+        <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <rdf:Description rdf:about=""/>
+            </rdf:RDF>
+        </x:xmpmeta>
+
+
+        <?xpacket end="w"?>
+    </metadata>
+
+    <g id="mask">
+        <rect id="Rectangle" class="cls-1" fill="#182353" x="11.31" y="18.938" width="7.69" height="2.312"/>
+        <path id="Rectangle-2" fill="#182353" data-name="Rectangle" class="cls-2" d="M1995.98,694.208h14.69V698h-14.69v-3.792Z"
+        transform="translate(-1988 -666)"/>
+        <path id="Shape" class="cls-2" fill="#182353"
+              d="M2009.74,669.72a3.106,3.106,0,0,0-1.26.264v-0.853a5.759,5.759,0,0,0-10.65,0v0.4a3.132,3.132,0,0,0-4.39,2.868v8.272l-0.02-.021a3.132,3.132,0,0,0-4.57,4.284l4.69,5.03a4.183,4.183,0,0,0,1.52,2.373h16.19a4.128,4.128,0,0,0,1.62-3.273V672.851A3.138,3.138,0,0,0,2009.74,669.72Zm-0.88,19.41h-11.41v-6.068h11.41v6.068Z"
+              transform="translate(-1988 -666)"/>
+    </g>
+</svg>

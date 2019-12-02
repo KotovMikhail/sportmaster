@@ -1,0 +1,36 @@
+<svg id="_-e-icon_5" data-name="-e-icon/5" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+        <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <rdf:Description rdf:about=""/>
+            </rdf:RDF>
+        </x:xmpmeta>
+
+
+        <?xpacket end="w"?>
+    </metadata>
+    <defs>
+        <style>
+            .cls-1, .cls-2 {
+            fill: #182353;
+            }
+
+            .cls-1 {
+            fill-rule: evenodd;
+            }
+        </style>
+    </defs>
+    <g id="mask">
+        <path id="Fill_1" data-name="Fill 1" class="cls-1"
+              d="M1114.22,857.953a2.343,2.343,0,0,1-2.42,1.794,2,2,0,0,1-2.2-1.872,0.5,0.5,0,0,1,.48-0.511,0.491,0.491,0,0,1,.51.479,1.029,1.029,0,0,0,1.21.914,1.348,1.348,0,0,0,1.45-.992,0.494,0.494,0,1,1,.97.188m12.42,1.444h-2.34l-6.87-4.959a4.3,4.3,0,0,1-1.74-2.946l-0.61-6.047a0.492,0.492,0,0,0-.49-0.445h-7.21a0.5,0.5,0,0,0-.38.175,0.526,0.526,0,0,0-.11.4,91.611,91.611,0,0,1,1.26,9.692,4.785,4.785,0,0,1-.86,1.861c-0.77,1.24-1.73,2.781-1.07,4.555a4.234,4.234,0,0,0,4.34,2.769,9.514,9.514,0,0,0,2.6-.4,7.517,7.517,0,0,1,2.11-.287,16.588,16.588,0,0,1,4.01.652,17.558,17.558,0,0,0,2.78.544q0.465,0.037,1.02.038a30.36,30.36,0,0,0,3.92-.316,2.655,2.655,0,0,0-.36-5.287"
+              transform="translate(-1099 -839)"/>
+        <rect id="Rectangle" class="cls-2" width="6" height="3"/>
+        <path id="Rectangle_Copy_13" data-name="Rectangle Copy 13" class="cls-1" d="M1102,839v6h-3v-6h3Z" transform="translate(-1099 -839)"/>
+        <rect id="Rectangle-2" data-name="Rectangle" class="cls-2" y="31" width="6" height="3"/>
+        <path id="Rectangle_Copy_13-2" data-name="Rectangle Copy 13" class="cls-1" d="M1102,873v-6h-3v6h3Z" transform="translate(-1099 -839)"/>
+        <rect id="Rectangle_Copy_10" data-name="Rectangle Copy 10" class="cls-2" x="28" width="6" height="3"/>
+        <path id="Rectangle_Copy_10-2" data-name="Rectangle Copy 10" class="cls-1" d="M1133,839v6h-3v-6h3Z" transform="translate(-1099 -839)"/>
+        <rect id="Rectangle_Copy_10-3" data-name="Rectangle Copy 10" class="cls-2" x="28" y="31" width="6" height="3"/>
+        <path id="Rectangle_Copy_10-4" data-name="Rectangle Copy 10" class="cls-1" d="M1133,873v-6h-3v6h3Z" transform="translate(-1099 -839)"/>
+    </g>
+</svg>

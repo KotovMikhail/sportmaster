@@ -1,0 +1,216 @@
+.experts {
+
+	&__wrapper {
+		position: relative;
+		width: 100%;
+		padding-top: 70px;
+		padding-bottom: 70px;
+		background-image: url("./../../img/pattern_blue.jpg");
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+
+		&::before {
+			content: '';
+			position: absolute;
+			left: 50%;
+			top: 0;
+			transform: translate(-50%, 0);
+			width: 551px;
+			height: 587px;
+			background-image: url("./../../img/snow.png");
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover;
+			z-index: 0;
+		}
+
+		@include mobile {
+			padding-top: 40px;
+			padding-right: 20px;
+			padding-bottom: 40px;
+			padding-left: 20px;
+
+			&::before {
+				content: none;
+			}
+		}
+	}
+
+	&__list {
+		display: flex;
+		justify-content: space-between;
+		@include list-reset;
+
+		@include mobile {
+			flex-direction: column;
+			justify-content: flex-start;
+			align-items: center;
+		}
+	}
+
+	&__item {
+		width: 48.5%;
+
+		@include mobile {
+			width: 100%;
+
+			&--left {
+				margin-bottom: 20px;
+			}
+		}
+	}
+
+	&__title {
+		margin-top: 0;
+		margin-bottom: 35px;
+		width: 100%;
+		max-width: 165px;
+		font-family: $proxima-extrabold;
+		font-size: 30px;
+		line-height: 30px;
+		text-transform: uppercase;
+		color: $white;
+
+		@include mobile {
+			max-width: 100%;
+			font-size: 18px;
+			line-height: 18px;
+			margin-bottom: 20px;
+		}
+	}
+
+	.experts__content {
+		display: flex;
+		justify-content: space-between;
+		position: relative;
+		padding: 30px;
+		background-color: $purple;
+		z-index: 1;
+
+		@include tablet-small {
+			flex-direction: column;
+			padding: 25px;
+		}
+
+		@include mobile {
+			padding: 20px;
+		}
+	}
+
+	&__person {
+		margin-right: 30px;
+
+		@include tablet-small {
+			display: flex;
+			margin-bottom: 25px;
+			margin-right: 0;
+		}
+
+		@include mobile {
+			margin-bottom: 20px;
+		}
+	}
+
+	&__img {
+		margin-bottom: 20px;
+		width: 80px;
+		height: 80px;
+		background-color: $white;
+		border-radius: 50%;
+		background-repeat: no-repeat;
+
+		&--goldin {
+			background-image: url("./../../img/godin-photo.png");
+			background-position: 0 5px;
+			background-size: 110%;
+		}
+
+		&--chadkin {
+			background-image: url("./../../img/chadkin-photo.png");
+			background-position: 10px 10px;
+			background-size: 130%;
+		}
+
+		@include tablet-small {
+			margin-bottom: 0;
+			margin-right: 20px;
+		}
+	}
+
+	&__name {
+		max-width: 120px;
+		font-family: $proxima-extrabold;
+		font-size: 20px;
+		line-height: 22px;
+		text-transform: uppercase;
+		color: $white;
+
+		@include mobile {
+			font-size: 15px;
+			line-height: 17px;
+		}
+	}
+
+	&__text {
+		p {
+			margin-top: 0;
+			margin-bottom: 20px;
+			font-size: 18px;
+			line-height: 20px;
+			color: $white;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+
+			@include mobile {
+				margin-bottom: 20px;
+				font-size: 13px;
+				line-height: 15px;
+			}
+		}
+	}
+
+	&__slider-container {
+		max-width: 990px;
+		padding: 0;
+	}
+
+	&__slider-wrapper {
+		padding-top: 75px;
+		padding-right: 50px;
+		padding-bottom: 75px;
+		padding-left: 50px;
+		background-color: $white;
+
+		@include tablet-small {
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+
+		@include mobile {
+			padding-top: 35px;
+			padding-right: 35px;
+			padding-bottom: 35px;
+			padding-left: 35px;
+		}
+	}
+
+	&__slider-title {
+		margin-top: 0;
+		margin-bottom: 35px;
+		width: 100%;
+		text-align: center;
+		font-size: 30px;
+		line-height: 30px;
+		color: $blue;
+		text-transform: uppercase;
+
+		@include mobile {
+			margin-bottom: 20px;
+			font-size: 18px;
+			line-height: 18px;
+		}
+	}
+}

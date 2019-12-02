@@ -1,0 +1,23 @@
+/* Vendor */
+@import "vendor/normalize";
+@import "vendor/swiper";
+
+/* General */
+@import "general/variables";
+@import "general/functions";
+@import "general/mixins";
+@import "general/fonts";
+@import "general/global";
+@import "general/animations";
+/* Blocks */
+
+@import "blocks/btn";
+@import "blocks/tabs";
+@import "blocks/promo";
+@import "blocks/sm-nav";
+@import "blocks/experts";
+@import "blocks/main-slider";
+@import "blocks/tech";
+
+
+
